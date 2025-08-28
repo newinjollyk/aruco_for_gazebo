@@ -1,3 +1,6 @@
+The model creation code which is the heart of this section was found in the link https://github.com/mikaelarguedas/gazebo_models .
+thank you 
+
 # ArUco Marker Models for Gazebo
 
 This repository helps you **generate ArUco markers** and convert them into **Gazebo-compatible models**.  
